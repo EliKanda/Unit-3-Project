@@ -1,0 +1,82 @@
+/* Feel free to change any of the styling below!*/
+body {
+    text-align: center;
+
+}
+
+img {
+    width: 350px;
+}
+
+.title {
+    font-size: 50px;
+    font-weight: 800;
+}
+
+.buttons {
+    display: flex;
+    justify-content: center;
+
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+button {
+    height: 40px;
+}
+
+
+h1 {
+    font-size: 50px;
+    color: black;
+}
+
+.window-one-screen{
+   display:none;
+}
+
+.window-two-screen{
+   display:none;
+}
+
+.window-one-ptwo{
+   display:none;
+}
+
+.window-two-ptwoone{
+   display:none;
+}
+
+
+.summer-end{
+   display:none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
